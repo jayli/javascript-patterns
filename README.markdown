@@ -111,34 +111,34 @@
 	- [什么时候使用柯里化](chapter4.markdown#a27)
 - [小结](chapter4.markdown#a28)
 
-## 第五章 对象创建模式
+## [第五章 对象创建模式](chapter5.markdown)
 
-- 命名空间模式
-	- 通用的命名空间函数
-- 声明依赖
-- 私有属性和方法
-	- 私有成员
-	- 特权方法
-	- 私有化失败
-	- 对象直接量及其私有成员
-	- 原型及其私有成员
-	- 将私有函数暴露为共有方法
-- 模块模式
-	- 暴露模块模式
-	- 创建构造器的模块
-	- 在模块中引入全局上下文
-- 沙箱模式
-	- 全局构造函数
-	- 添加模块
-	- 实现这个构造函数
-- 静态成员
-	- 共有静态成员
-	- 私有静态成员
-- 对象常量
-- 链式调用模式
-	- 链式调用模式的利弊
-- method() 方法
-- 小节
+- [命名空间模式](chapter5.markdown#a2)
+	- [通用的命名空间函数](chapter5.markdown#a3)
+- [声明依赖](chapter5.markdown#a4)
+- [私有属性和方法](chapter5.markdown#a5)
+	- [私有成员](chapter5.markdown#a6)
+	- [特权方法](chapter5.markdown#a7)
+	- [私有化失败](chapter5.markdown#a8)
+	- [对象直接量及其私有成员](chapter5.markdown#a9)
+	- [原型及其私有成员](chapter5.markdown#a10)
+	- [将私有函数暴露为共有方法](chapter5.markdown#a11)
+- [模块模式](chapter5.markdown#a12)
+	- [暴露模块模式](chapter5.markdown#a13)
+	- [创建构造器的模块](chapter5.markdown#a14)
+	- [在模块中引入全局上下文](chapter5.markdown#a15)
+- [沙箱模式](chapter5.markdown#a16)
+	- [全局构造函数](chapter5.markdown#a17)
+	- [添加模块](chapter5.markdown#a18)
+	- [实现这个构造函数](chapter5.markdown#a19)
+- [静态成员](chapter5.markdown#a20)
+	- [共有静态成员](chapter5.markdown#a21)
+	- [私有静态成员](chapter5.markdown#a22)
+- [对象常量](chapter5.markdown#a23)
+- [链式调用模式](chapter5.markdown#a24)
+	- [链式调用模式的利弊](chapter5.markdown#a25)
+- [method() 方法](chapter5.markdown#a26)
+- [小节](chapter5.markdown#a27)
 
 ## [第六章 代码复用模式](chapter6.markdown#a1)
 
@@ -193,35 +193,35 @@
 	- [例2：按键游戏](chapter7.markdown#a22)
 - [小结](chapter7.markdown#a23)
 
-## 第八章 DOM和浏览器模式
+## [第八章 DOM和浏览器模式](chapter5.markdown)
 
-- 分离关注点
-- DOM 脚本编程
-	- DOM访问
-	- DOM操作
-- 事件
-	- 事件处理
-	- 事件委托
-- 长时间运行的脚本
-	- setTimeout()
-	- Web Workers
-- 远程脚本
-	- XMLHttpRequest
-	- JSONP
-	- Frame和Image加载指示器
-- 部署JavaScript
-	- 合并脚本
-	- 代码减肥和压缩
-	- 过期头
-	- 使用CDN
-- 加载策略
-	- script标签的位置
-	- HTTP 分块
-	- 动态插入script标签非阻塞载入脚本
-	- 延迟加载
-	- 按需加载
-	- 预加载
-- 小节
+- [分离关注点](chapter5.markdown#a2)
+- [DOM 脚本编程](chapter5.markdown#a3)
+	- [DOM访问](chapter5.markdown#a4)
+	- [DOM操作](chapter5.markdown#a5)
+- [事件](chapter5.markdown#a6)
+	- [事件处理](chapter5.markdown#a7)
+	- [事件委托](chapter5.markdown#a8)
+- [长时间运行的脚本](chapter5.markdown#a9)
+	- [setTimeout()](chapter5.markdown#a10)
+	- [Web Workers](chapter5.markdown#a11)
+- [远程脚本](chapter5.markdown#a12)
+	- [XMLHttpRequest](chapter5.markdown#a13)
+	- [JSONP](chapter5.markdown#a14)
+	- [Frame和Image加载指示器](chapter5.markdown#a15)
+- [部署JavaScript](chapter5.markdown#a16)
+	- [合并脚本](chapter5.markdown#a17)
+	- [代码减肥和压缩](chapter5.markdown#a18)
+	- [过期头](chapter5.markdown#a19)
+	- [使用CDN](chapter5.markdown#a20)
+- [加载策略](chapter5.markdown#a21)
+	- [script标签的位置](chapter5.markdown#a22)
+	- [HTTP 分块](chapter5.markdown#a23)
+	- [动态插入script标签非阻塞载入脚本](chapter5.markdown#a24)
+	- [延迟加载](chapter5.markdown#a25)
+	- [按需加载](chapter5.markdown#a26)
+	- [预加载](chapter5.markdown#a27)
+- [小节](chapter5.markdown#a28)
 
-## 索引
+## [索引](README.markdown)
 
