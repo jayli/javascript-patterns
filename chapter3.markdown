@@ -227,7 +227,7 @@ Person构造函数是如何定义的呢？看下面的代码：
 	console.log(typeof good_morning); // "undefined"
 	console.log(window.tastes); // "yummy"
 
-ECMAScript5中修正了这种非正常的行为逻辑。在严格模式中，this是不能指向全局对象的。如果在不支持ES5的JavaScript环境中，仍然后很多方法可以确保构造函数的行为即便在省略new调用时也不会出问题。
+ECMAScript5中修正了这种非正常的行为逻辑。在严格模式中，this是不能指向全局对象的。如果在不支持ES5的JavaScript环境中，仍然有很多方法可以确保构造函数的行为即便在省略new调用时也不会出问题。
 
 <a name="a9"></a>
 ### 命名约定
@@ -475,7 +475,7 @@ JavaScript中的正则表达式也是对象，可以通过两种方式创建它�
 
 	var re = /pattern/gmi;
 
-使用正则表达式直接量可以让代码更加简洁高效，比如当调用String.prototype.prelace()方法时，可以传入正则表达式参数：
+使用正则表达式直接量可以让代码更加简洁高效，比如当调用String.prototype.replace()方法时，可以传入正则表达式参数：
 
 	var no_letters = "abc123XYZ".replace(/[a-z]/gi, "");
 	console.log(no_letters); // 123
@@ -572,7 +572,7 @@ JavaScript中有很多内置的Error构造函数，比如Error()、SyntaxError()
 
 **name**
 
-name属性是指创建这个对象的构造函数的名字，通常是“Errora”，有时会有特定的名字比如“RangeError”
+name属性是指创建这个对象的构造函数的名字，通常是“Error”，有时会有特定的名字比如“RangeError”
 
 **message**
 
